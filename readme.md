@@ -22,8 +22,8 @@
 
 | Library                                                     | Demo                                           | Page Bundle Size | Page First Load JS | Shared First Load JS |
 | ----------------------------------------------------------- | ---------------------------------------------- | ---------------- | ------------------ | -------------------- |
-| [React Notion](https://github.com/splitbee/react-notion)    | [demo](https://test-react-notion.vercel.app)   | 16.3 KB          | 79 KB              | 62.7 KB              |
-| [React Notion X](https://github.com/NotionX/react-notion-x) | [demo](https://test-react-notion-x.vercel.app) | 27.9 KB          | 90.6 KB            | 62.8 KB              |
+| [React Notion](https://github.com/splitbee/react-notion)    | [demo](https://test-react-notion.vercel.app)   | **16.3** KB      | **79** KB          | **62.7** KB          |
+| [React Notion X](https://github.com/NotionX/react-notion-x) | [demo](https://test-react-notion-x.vercel.app) | **27.9** KB      | **90.6** KB        | **62.8** KB          |
 
 ## Observations
 
